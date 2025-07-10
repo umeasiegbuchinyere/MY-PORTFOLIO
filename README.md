@@ -71,13 +71,13 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     <tr>
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/chinyere-umeasiegbu-664807298">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+  
+    
+      
+      
+    
+  
+
 
    
 
