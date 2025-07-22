@@ -8,13 +8,26 @@ Hello! I'm Umeasiegbu Chinyere , a data analyst, educator, and consultant with a
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- 🧹 Data Cleaning.**
+Cleaning data is like tidying up a messy room—essential before any real work can begin. I’ve worked with raw datasets that had missing values, duplicates, inconsistent formatting, and errors. 
+Using tools like Excel and Power BI, I’ve learned how to handle nulls, standardize entries, and prepare data for deeper analysis. Clean data = reliable insights.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- 🔄 Data Transformation.**
+Once data is clean, transformation makes it usable. I’ve reshaped data using pivot tables, performed aggregations, created calculated fields, and joined datasets to unlock new perspectives. 
+Whether it’s preparing sales data for forecasting or customer data for segmentation, I enjoy turning raw data into structured formats that tell a story.
+
+**- 📊 Data Visualization.**
+Visualization helps translate data into something humans can understand. I’ve built charts and graphs using Excel and Tableau to highlight trends, compare metrics, and support decision-making. 
+I always keep it simple, clean, and focused—choosing the right chart type and using color wisely to tell a clear, honest story.
+
+**- 📈 Dashboard Creation.**
+Dashboards are my way of creating interactive, real-time overviews that make data accessible. I've used tools like Tableau and Google and Power BI to design dashboards that summarize key metrics 
+at a glance. Whether it's tracking KPIs or monitoring customer feedback, I focus on clarity, usability, and visual appeal.
+________________________________________
+
+
+
 
 
 <!--Section 2: List 3-4 key projects-->
