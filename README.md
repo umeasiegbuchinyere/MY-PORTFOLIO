@@ -35,29 +35,30 @@ ________________________________________
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Hospital Visit Analysis Project.**
+![image][https://www.linkedin.com/posts/chinyere-umeasiegbu-664807298_hospital-visit-analysis-project-project-overview-activity-7356654656669806592-BnlF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgF0uwB2mRqexANHq4CmMDQ46I1EW15bh4]
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+The analysis of the regular visit of people in the hospital.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+(Read More)[https://www.linkedin.com/posts/chinyere-umeasiegbu-664807298_hospital-visit-analysis-project-project-overview-activity-7356654656669806592-BnlF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgF0uwB2mRqexANHq4CmMDQ46I1EW15bh4]
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Hospital Visit Analysis Project.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+[<img width="536" height="707" alt="hospital snip" src="https://github.com/user-attachments/assets/64631a52-a864-4718-ae18-446de93e2f3a" />]
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+Despite increasing healthcare access, hospitals face challenges in managing treatment outcomes, cost efficiency, and equitable care delivery. 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+[Read More][https://www.linkedin.com/posts/chinyere-umeasiegbu-664807298_hospital-visit-analysis-project-project-overview-activity-7356654656669806592-BnlF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgF0uwB2mRqexANHq4CmMDQ46I1EW15bh4]
 
-![image](3 anietie etuk data analytics agro project.jpg)
+**Hospital Visit Analysis Project.**
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+![image][https://www.linkedin.com/feed/update/urn:li:activity:7356654656669806592/#?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BV0D%2BbVw5T9S6ZFh%2Fs3pqiw%3D%3D.]
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+Older age, emergency or referral admission, and certain diagnoses (e.g., GERD, Type 2 Diabetes) are associated with poorer outcomes and higher treatment costs. Insurance and hospital location also significantly impact treatment expenses.. 
+
+<a href="Hospital Visit Analysis Project to Executives.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
