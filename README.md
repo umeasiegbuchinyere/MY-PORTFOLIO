@@ -35,13 +35,6 @@ ________________________________________
 
 *A glimpse of some of the projects I've been working on.*
 
-**Hospital Visit Analysis Project.**
-![image][https://www.linkedin.com/posts/chinyere-umeasiegbu-664807298_hospital-visit-analysis-project-project-overview-activity-7356654656669806592-BnlF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgF0uwB2mRqexANHq4CmMDQ46I1EW15bh4]
-
-The analysis of the regular visit of people in the hospital.
-
-
-(Read More)[https://www.linkedin.com/posts/chinyere-umeasiegbu-664807298_hospital-visit-analysis-project-project-overview-activity-7356654656669806592-BnlF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgF0uwB2mRqexANHq4CmMDQ46I1EW15bh4]
 
 **Hospital Visit Analysis Project.**
 
@@ -50,9 +43,6 @@ The analysis of the regular visit of people in the hospital.
 
 Despite increasing healthcare access, hospitals face challenges in managing treatment outcomes, cost efficiency, and equitable care delivery. 
 
-[Read More][https://www.linkedin.com/posts/chinyere-umeasiegbu-664807298_hospital-visit-analysis-project-project-overview-activity-7356654656669806592-BnlF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgF0uwB2mRqexANHq4CmMDQ46I1EW15bh4]
-
-**Hospital Visit Analysis Project.**
 
 ![image][https://www.linkedin.com/feed/update/urn:li:activity:7356654656669806592/#?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BV0D%2BbVw5T9S6ZFh%2Fs3pqiw%3D%3D.]
 
